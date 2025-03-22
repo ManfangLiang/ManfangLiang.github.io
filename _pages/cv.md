@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
+<!---
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+--->
+* M.S. in Biostatistics, Brown University, 2026 (expected)
+* B.S. in Public Health, National Taiwan University, 2022
+* B.S. in Psychology, National Taiwan University, 2022
 
 Work experience
 ======
