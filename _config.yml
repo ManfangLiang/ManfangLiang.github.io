@@ -314,6 +314,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+  - jekyll-admin
 
 
 # Archives
