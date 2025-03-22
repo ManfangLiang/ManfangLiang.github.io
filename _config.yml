@@ -8,7 +8,7 @@ url: 'https://manfangliang.github.io'
 baseurl: ''
 repository: ManfangLiang/ManfangLiang.github.io
 author:
-  avatar: images/profile.png
+  avatar: /images/profile.png
   name: Man-Fang (Candice) Liang
   pronouns: ''
   bio: MS student in Biostatistics at Brown
