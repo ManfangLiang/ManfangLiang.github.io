@@ -10,7 +10,7 @@ repository: academicpages/academicpages.github.io
 author:
   avatar: profile.png
   name: Man-Fang (Candice) Liang
-  pronouns: 'null'
+  pronouns: ''
   bio: MS student in Biostatistics at Brown
   location: 'Providence, RI'
   employer: Brown University
@@ -27,7 +27,7 @@ author:
   bitbucket: null
   codepen: null
   dribbble: null
-  github: github.com/ManfangLiang
+  github: ManfangLiang
   kaggle: null
   stackoverflow: null
   bluesky: 'null'
@@ -37,9 +37,9 @@ author:
   goodreads: null
   google_plus: null
   keybase: null
-  instagram: www.instagram.com/mental0416/
+  instagram: mental0416/
   lastfm: null
-  linkedin: www.linkedin.com/in/manfangliang/
+  linkedin: manfangliang/
   mastodon: null
   medium: null
   pinterest: null
