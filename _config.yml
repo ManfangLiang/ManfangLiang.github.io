@@ -8,21 +8,21 @@ url: 'https://manfangliang.github.io'
 baseurl: ''
 repository: ManfangLiang/ManfangLiang.github.io
 author:
-  avatar: profile.png
+  avatar: images/profile.png
   name: Man-Fang (Candice) Liang
   pronouns: ''
   bio: MS student in Biostatistics at Brown
   location: 'Providence, RI'
   employer: Brown University
-  uri: 'null'
+  uri: null
   email: man-fang_liang@brown.edu
   arxiv: null
-  googlescholar: 'null'
+  googlescholar: null
   impactstory: null
   orcid: 'null'
   semantic: null
-  pubmed: 'null'
-  researchgate: 'null'
+  pubmed: null
+  researchgate: null
   scopus: null
   bitbucket: null
   codepen: null
@@ -30,16 +30,16 @@ author:
   github: ManfangLiang
   kaggle: null
   stackoverflow: null
-  bluesky: 'null'
+  bluesky: null
   facebook: null
   flickr: null
   foursquare: null
   goodreads: null
   google_plus: null
   keybase: null
-  instagram: mental0416/
+  instagram: mental0416
   lastfm: null
-  linkedin: manfangliang/
+  linkedin: manfangliang
   mastodon: null
   medium: null
   pinterest: null
